@@ -4,7 +4,12 @@ My name is Xin Niu. I am a PhD graduate from Drexel University. I research brain
 
 - 🔭 I’m currently working at UCLA Health as a Programmer Analyst.
 - ⚡ Fun fact: I am a guitar player and wrote several songs :)
+  
 ## Research
+
+### reactivation of concept cells in memory and during sleep.
+
+At Dr. Fried's lab. I built and maintained the data management and analysis pipeline to study human concept cells. My duties include writing software to manage large amounts of iEEG data from Epilepsy patients. Build analysis pipeline for signal processing, spike sorting, and visualization of raster plots for concept cell screening. I also trained the cutting-edge transformer model to predict memory reactivation during sleep.
 
 ### Altered brain development in psychiatric disorders.
 
