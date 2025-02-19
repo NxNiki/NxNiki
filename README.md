@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Xin Niu. I am a PhD graduate from Drexel University. I research brain imaging and intracranial EEG. I am enthusiastic about machine learning and coding.
+
+- 🔭 I’m currently working at UCLA Health as a Programmer Analyst.
+
 <!--
 **NxNiki/NxNiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
