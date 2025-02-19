@@ -2,6 +2,8 @@
 
 My name is Xin Niu. I am a PhD graduate from Drexel University. I research brain imaging and intracranial EEG. I am enthusiastic about machine learning and coding.
 
+- 🔭 I’m currently working at UCLA Health as a Programmer Analyst.
+- ⚡ Fun fact: I am a guitar player and wrote several songs :)
 ## Research
 
 ### Altered brain development in psychiatric disorders.
@@ -13,8 +15,6 @@ The altered brain development is a hallmark of neurodegenerative disease and psy
 
 I worked at Whoop Inc., a start-up company using wearables to promote human health. I built visualization pipelines to examine the distribution of stress scores and machine learning models to predict Vo2max based on cardiophysiological metrics (resting heart rate, heart rate variability, etc).
 
-
-- 🔭 I’m currently working at UCLA Health as a Programmer Analyst.
 
 <!--
 **NxNiki/NxNiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
