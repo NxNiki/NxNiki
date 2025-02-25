@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Xin Niu. I am a PhD graduate from Drexel University. I research brain imaging and intracranial EEG. I am enthusiastic about machine learning and coding.
+My name is Xin Niu. I am a PhD graduate from Drexel University. I use brain imaging and intracranial EEG data to investigate brain development and human memory. I am enthusiastic about machine learning and coding.
 
 - 🔭 I’m currently working at UCLA Health as a Programmer Analyst.
 - ⚡ Fun fact: I am a guitar player and wrote several songs :)
