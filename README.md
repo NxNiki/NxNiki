@@ -13,13 +13,13 @@ My name is Xin Niu. I am a PhD graduate from Drexel University. I use brain imag
   
 ## Research
 
-### reactivation of concept cells in memory and during sleep.
+### Reactivation of concept cells in memory and during sleep.
 
-At Dr. Fried's lab. I built and maintained the data management and analysis pipeline to study human concept cells. My duties include writing software to manage large amounts of iEEG data from Epilepsy patients. Build analysis pipeline for signal processing, spike sorting, and visualization of raster plots for concept cell screening. I also trained the cutting-edge transformer model to predict memory reactivation during sleep.
+At Dr. Fried's lab. I built and maintained the [data management and analysis pipeline](https://github.com/NxNiki/nwbPipeline) to study human concept cells. My duties include writing software to manage large amounts of iEEG data from Epilepsy patients. Build analysis pipeline for signal processing, spike sorting, and visualization of raster plots for concept cell screening. I also trained the cutting-edge [transformer model](https://github.com/NxNiki/brain_decoding) to predict memory reactivation during sleep.
 
 ### Altered brain development in psychiatric disorders.
 
-The altered brain development is a hallmark of neurodegenerative disease and psychiatric disorders. Researchers use machine learning models to predict chronological age and achieve high accuracy. Furthermore, the residuals of brain age prediction contain information on the altered development. I worked on several seminal projects on brain age prediction that addressed the fundamental methodological issue and proposed a novel way to investigate the divergent development trajectories of different brain systems.
+The altered brain development is a hallmark of neurodegenerative disease and psychiatric disorders. Researchers use machine learning models to predict chronological age and achieve high accuracy. Furthermore, the residuals of brain age prediction contain information on the altered development. I worked on several seminal projects on [brain age prediction](https://github.com/NxNiki/age_prediction_clean) that addressed the fundamental methodological issue and proposed a novel way to investigate the divergent development trajectories of different brain systems.
 
 
 ## Data Scientist
