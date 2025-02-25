@@ -5,7 +5,7 @@ My name is Xin Niu. I am a PhD graduate from Drexel University. I use brain imag
 - 🔭 I’m currently working at UCLA Health as a Programmer Analyst.
 - ⚡ Fun fact: I am a guitar player and wrote several songs :)
 - 🌱 I’m currently learning:
-  - [transformer] (https://github.com/rasbt/LLMs-from-scratch)
+  - [transformer](https://github.com/rasbt/LLMs-from-scratch)
   - [Javascript](https://github.com/NxNiki/Udemy_JavaScript)
   - C++ [Code](https://github.com/NxNiki/MoshCourse_C) and [Notes](https://github.com/NxNiki/Cpp_Primer_Notes)
   - [Docker](https://github.com/NxNiki/docker_moshcourse)
