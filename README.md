@@ -7,7 +7,7 @@ My name is Xin Niu. I am a PhD graduate from Drexel University. I use brain imag
 - 🌱 I’m currently learning:
   - [transformer](https://github.com/rasbt/LLMs-from-scratch)
   - [Javascript](https://github.com/NxNiki/Udemy_JavaScript)
-  - C++ [Code](https://github.com/NxNiki/MoshCourse_C) and [Notes](https://github.com/NxNiki/Cpp_Primer_Notes)
+  - C++ [Mosh course](https://github.com/NxNiki/MoshCourse_C) and [Cpp Primer Notes](https://github.com/NxNiki/Cpp_Primer_Notes)
   - [Docker](https://github.com/NxNiki/docker_moshcourse)
   - [SQL](https://github.com/NxNiki/sql_moshcourse)
   - [AWS and sagemaker](https://github.com/NxNiki/udemy-aws-machine_learning)
