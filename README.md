@@ -11,7 +11,7 @@ My name is Xin Niu. I am a PhD graduate from Drexel University. I use brain imag
   - [Docker](https://github.com/NxNiki/docker_moshcourse)
   - [SQL](https://github.com/NxNiki/sql_moshcourse)
   - [AWS and sagemaker](https://github.com/NxNiki/udemy-aws-machine_learning)
-  - [pyspark](https://github.com/NxNiki/linked_course_apache_pyspark)
+  - [pyspark/Databricks](https://github.com/NxNiki/linked_course_apache_pyspark)
   - [git/github](https://github.com/NxNiki/git_course)
   - [python](https://github.com/NxNiki/python_course)
   
