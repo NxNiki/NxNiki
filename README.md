@@ -15,6 +15,14 @@ My name is Xin Niu. I am a PhD graduate from Drexel University. I use brain imag
   - [git/github](https://github.com/NxNiki/git_course)
   - [python](https://github.com/NxNiki/python_course)
   
+
+## Data Scientist
+
+I am currently a Data Scientist at Bitus Labs. My work involves building data analysis pipleine for online gaming user data and optimizing gaming strategy to increase profit.
+
+In 2023, I worked at Whoop Inc., a start-up company using wearables to promote human health. I built visualization pipelines to examine the distribution of stress scores and machine learning models to predict Vo2max based on cardiophysiological metrics (resting heart rate, heart rate variability, etc).
+
+
 ## Research
 
 ### Reactivation of concept cells in memory and during sleep.
@@ -26,9 +34,7 @@ At Dr. Fried's lab. I built and maintained the [data management and analysis pip
 The altered brain development is a hallmark of neurodegenerative disease and psychiatric disorders. Researchers use machine learning models to predict chronological age and achieve high accuracy. Furthermore, the residuals of brain age prediction contain information on the altered development. I worked on several seminal projects on [brain age prediction](https://github.com/NxNiki/age_prediction_clean) that addressed the fundamental methodological issue and proposed a novel way to investigate the divergent development trajectories of different brain systems.
 
 
-## Data Scientist
 
-I worked at Whoop Inc., a start-up company using wearables to promote human health. I built visualization pipelines to examine the distribution of stress scores and machine learning models to predict Vo2max based on cardiophysiological metrics (resting heart rate, heart rate variability, etc).
 
 
 <!--
