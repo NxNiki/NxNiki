@@ -14,6 +14,7 @@ My name is Xin Niu. I am a PhD graduate from Drexel University. I use brain imag
   - [pyspark/Databricks](https://github.com/NxNiki/linked_course_apache_pyspark)
   - [git/github](https://github.com/NxNiki/git_course)
   - [python](https://github.com/NxNiki/python_course)
+  - [crafting interpreters](https://www.craftinginterpreters.com/introduction.html)
   
 
 ## Data Scientist
@@ -32,9 +33,6 @@ At Dr. Fried's lab. I built and maintained the [data management and analysis pip
 ### Altered brain development in psychiatric disorders.
 
 The altered brain development is a hallmark of neurodegenerative disease and psychiatric disorders. Researchers use machine learning models to predict chronological age and achieve high accuracy. Furthermore, the residuals of brain age prediction contain information on the altered development. I worked on several seminal projects on [brain age prediction](https://github.com/NxNiki/age_prediction_clean) that addressed the fundamental methodological issue and proposed a novel way to investigate the divergent development trajectories of different brain systems.
-
-
-
 
 
 <!--
