@@ -34,6 +34,9 @@ At Dr. Fried's lab. I built and maintained the [data management and analysis pip
 
 The altered brain development is a hallmark of neurodegenerative disease and psychiatric disorders. Researchers use machine learning models to predict chronological age and achieve high accuracy. Furthermore, the residuals of brain age prediction contain information on the altered development. I worked on several seminal projects on [brain age prediction](https://github.com/NxNiki/age_prediction_clean) that addressed the fundamental methodological issue and proposed a novel way to investigate the divergent development trajectories of different brain systems.
 
+## Learning resources:
+
+[techinterviewhandbook](https://www.techinterviewhandbook.org/coding-interview-prep/)
 
 <!--
 **NxNiki/NxNiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
