@@ -15,6 +15,7 @@ My name is Xin Niu. I am a PhD graduate from Drexel University. I use brain imag
   - [git/github](https://github.com/NxNiki/git_course)
   - [python](https://github.com/NxNiki/python_course)
   - [crafting interpreters](https://www.craftinginterpreters.com/introduction.html)
+  - [data engineer](https://www.startdataengineering.com/)
   
 
 ## Data Scientist
