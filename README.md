@@ -6,14 +6,15 @@ My name is Xin Niu. I am a PhD graduate from Drexel University. I use brain imag
 - ⚡ Fun fact: I am a guitar player and wrote several songs :)
 - 🌱 I’m currently learning:
   - [genAI and LLM](https://github.com/rasbt/LLMs-from-scratch)
-  - [Javascript](https://github.com/NxNiki/Udemy_JavaScript)
-  - C++ [Mosh course](https://github.com/NxNiki/MoshCourse_C) and [Cpp Primer Notes](https://github.com/NxNiki/Cpp_Primer_Notes)
-  - [Docker](https://github.com/NxNiki/docker_moshcourse)
-  - [SQL](https://github.com/NxNiki/sql_moshcourse)
-  - [AWS and sagemaker](https://github.com/NxNiki/udemy-aws-machine_learning)
-  - [pyspark/Databricks](https://github.com/NxNiki/linked_course_apache_pyspark)
-  - [git/github](https://github.com/NxNiki/git_course)
-  - [python](https://github.com/NxNiki/python_course)
+  - [Javascript](https://github.com/NxNiki/learning-notes/tree/main/programming/javascript)
+  - C++ [Mosh course](https://github.com/NxNiki/learning-notes/tree/main/programming/cpp/mosh-course) and [Cpp Primer Notes](https://github.com/NxNiki/learning-notes/tree/main/programming/cpp/cpp-primer)
+  - [Docker](https://github.com/NxNiki/learning-notes/tree/main/programming/docker)
+  - [SQL](https://github.com/NxNiki/learning-notes/tree/main/programming/sql)
+  - [AWS and sagemaker](https://github.com/NxNiki/learning-notes/tree/main/data-engineering/aws-ml)
+  - [pyspark/Databricks](https://github.com/NxNiki/learning-notes/tree/main/data-engineering/pyspark)
+  - [git/github](https://github.com/NxNiki/learning-notes/tree/main/programming/git)
+  - [python](https://github.com/NxNiki/learning-notes/tree/main/programming/python)
+  - [Hidden Markov Models](https://github.com/NxNiki/learning-notes/tree/main/math-models/hidden-markov-models) and other [math models](https://github.com/NxNiki/learning-notes/tree/main/math-models)
   - [crafting interpreters](https://www.craftinginterpreters.com/introduction.html)
   - [data engineer](https://www.startdataengineering.com/)
   
@@ -36,6 +37,8 @@ At Dr. Fried's lab. I built and maintained the [data management and analysis pip
 The altered brain development is a hallmark of neurodegenerative disease and psychiatric disorders. Researchers use machine learning models to predict chronological age and achieve high accuracy. Furthermore, the residuals of brain age prediction contain information on the altered development. I worked on several seminal projects on [brain age prediction](https://github.com/NxNiki/age_prediction_clean) that addressed the fundamental methodological issue and proposed a novel way to investigate the divergent development trajectories of different brain systems.
 
 ## Learning resources:
+
+All my study notes live in one repo: [learning-notes](https://github.com/NxNiki/learning-notes) (math models, programming, data engineering, [leetcode](https://github.com/NxNiki/learning-notes/tree/main/algorithms/leetcode), [journal club](https://github.com/NxNiki/learning-notes/tree/main/papers)).
 
 [techinterviewhandbook](https://www.techinterviewhandbook.org/coding-interview-prep/)
 
